@@ -1,0 +1,3 @@
+[submodule "cloned2"]
+	path = cloned2
+	url = https://github.com/UniqueEl/sorting_algorithms.git
